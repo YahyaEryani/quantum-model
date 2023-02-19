@@ -1,7 +1,7 @@
 # High-Energy Physics: Signal vs Background Classification
 This is a project in the field of high-energy physics that aims to distinguish between signal and background processes using machine learning techniques. The goal is to differentiate between a signal process where new theoretical Higgs bosons (HIGGS) are produced, and a background process with the identical decay products but distinct kinematic features.
 
-##Installation and Usage
+## Installation and Usage
 To install and run the project, follow these steps:
 
 Clone the project repository using git clone.
