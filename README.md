@@ -4,9 +4,9 @@ This is a project in the field of high-energy physics that aims to distinguish b
 ## Installation and Usage
 To install and run the project, follow these steps:
 
-Clone the project repository using git clone.
-Install the required Python packages using pip install -r requirements.txt.
-Run the preprocessing script to preprocess the data.
-Run the training script to train the machine learning model.
-Run the evaluation script to evaluate the model on a test dataset.
+1- Clone the project repository using git clone.
+2- Install the required Python packages using pip install -r requirements.txt.
+3- Run the preprocessing script to preprocess the data.
+4- Run the training script to train the machine learning model.
+5- Run the evaluation script to evaluate the model on a test dataset.
 Note: The project requires Python 3.6 or higher.
