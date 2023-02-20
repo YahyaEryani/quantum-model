@@ -9,4 +9,5 @@ To install and run the project, follow these steps:
 3. Run the preprocessing script to preprocess the data.
 4. Run the training script to train the machine learning model.
 5. Run the evaluation script to evaluate the model on a test dataset.
+
 <br />Note: The project requires Python 3.6 or higher.
