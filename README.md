@@ -11,3 +11,22 @@ To install and run the project, follow these steps:
 5. Run the evaluation script to evaluate the model on a test dataset.
 
 <br />Note: The project requires Python 3.6 or higher.
+
+## Contributing
+To contribute to this project, follow these steps:
+
+1. Fork the project repository by clicking the "Fork" button on the top right corner of the page.
+
+2. Clone your forked repository using git clone.
+
+3. Create a new branch for your changes using git checkout -b branch-name.
+
+4. Make your changes and commit them using git commit -m "commit message".
+
+5. Push your changes to your forked repository using git push origin branch-name.
+
+6. Create a pull request by clicking the "New pull request" button on the original repository page.
+
+7. Wait for your pull request to be reviewed and merged.
+
+Note: Make sure to keep your forked repository up to date with the original repository by regularly pulling changes using git pull origin master.
