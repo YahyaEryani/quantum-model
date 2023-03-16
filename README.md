@@ -17,13 +17,13 @@ To contribute to this project, follow these steps:
 
 1. Fork the project repository by clicking the "Fork" button on the top right corner of the page.
 
-2. Clone your forked repository using 'git clone'.
+2. Clone your forked repository using `git clone`.
 
-3. Create a new branch for your changes using 'git checkout -b branch-name'.
+3. Create a new branch for your changes using `git checkout -b branch-name`.
 
-4. Make your changes and commit them using 'git commit -m "commit message"'.
+4. Make your changes and commit them using `git commit -m "commit message"`.
 
-5. Push your changes to your forked repository using 'git push origin branch-name'.
+5. Push your changes to your forked repository using `git push origin branch-name`.
 
 6. Create a pull request by clicking the "New pull request" button on the original repository page.
 
